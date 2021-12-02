@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "Yanida",
+    "umur": 20,
+    "nrp": "193040022",
+    "lulus": true,
+    "hobi": ["badminton", "gaming"],
+    "pembimbing": {
+      "pembimbing1": "Doddy Ferdiansyah",
+      "pembimbing2": "Erik Doank"
+    }
+  },
+  {
+    "nama": "Yanida",
+    "umur": 20,
+    "nrp": "193040022",
+    "lulus": true,
+    "hobi": ["badminton", "gaming"],
+    "pembimbing": {
+      "pembimbing1": "Doddy Ferdiansyah",
+      "pembimbing2": "Erik Doank"
+    }
+  }
+]
